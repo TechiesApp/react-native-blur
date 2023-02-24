@@ -12,6 +12,7 @@ type BlurType =
   | 'light'
   | 'xlight'
   | 'prominent'
+  | 'transparent'
   | 'regular'
   | 'extraDark'
   | 'chromeMaterial'
